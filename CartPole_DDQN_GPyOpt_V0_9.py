@@ -9,7 +9,7 @@ from collections import deque
 import pandas as pd
 
 from keras.models import Sequential
-from keras.layers import Dense, Activation, LSTM, Dropout #need to practice with this never used it before
+from keras.layers import Dense, Activation, LSTM, Dropout
 from keras.optimizers import SGD, Adam
 
 import GPyOpt
